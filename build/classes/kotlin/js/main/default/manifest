@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=2.0.10
+depends=com.varabyte.kobweb\:kobweb-silk com.varabyte.kobweb\:kobweb-core com.varabyte.kobwebx\:silk-icons-fa com.varabyte.kobwebx\:kobwebx-markdown com.honger.ngel.worker\:worker org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.html\:html-core com.varabyte.kobweb\:silk-widgets-kobweb com.varabyte.kobweb\:silk-widgets com.varabyte.kobweb\:silk-foundation com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext com.varabyte.kobweb\:kobweb-worker-interface com.varabyte.kobweb\:browser-ext org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=ngel
+metadata_version=1.4.1
+serializedIrFileFingerprints=22qpfuvhqtk4b.1qlcjj57kma2o pnt2dugoqpx9.2m4v0iduy98ox 3py4yfs7qg1bv.cns3u529apvb acqm9gag7cht.4wgdh08ywpuw 2789oud4kghdj.i5cm1grqkrv 1u9dzf5x88lhg.2l1bygiu1g9ek 3naawog1yvevk.47rl29j41uxc 2qjfng2ob2xu5.2mdwlo5fkgdwb 38crv3c2gj48b.3u9qkno4pbwid 3fcqitcvfl1ww.1luufd2joojzn 2yf226w33jlgd.1e4wrnwxi4fvi 20hblqiwhshp5.1l8hff9yhzp62 2favrxz0v5b7z.hd3h11xpzfzx 32op7ob0jfwqd.1pylxgsac0qgh i92pl8wwi5v7.qg3fvvn8sqih 2uleqwwmhncn2.1codvohul93pg 2zecdk3amuw07.2u49j7yhk57dz e1hr76zg70wb.ykqgyo64jlsd rvsdh0qj65ft.4ohgpcm4z3h1 34i3dpa8y1bew.3freqz2fh0tg1 6ci80llsquk1.f7lu3li3wvsf 2j845xs6eq6si.d2mndu07j1q6 23qcz1qkrln8r.14psjgwcd53dz 26oydob3nyjfu.59qi0iv2ueeb 24g9skdo840qw.167e92l4av6oh 34cepzt8obikc.rsdrauu138ps 21sm81jzneo0r.3984bq1m11did 231u559yy70jy.2vsu7414in0ci 3m4kilitbi3lh.vcz9qa8dmza3 2jgdmmou8it1o.22nu3ib5upywj 15h3ltjtotgr0.1jbtx3w4vm3sb 15tg6g76putqp.3s5w3rd1d6rx6 1uzmm3x5wlw7w.myeavrqjjwyy 2jwbsf10uxftx.3cq6wr4h13zkw 18jvh9w4g62ps.36ylbl0slbwdz 1c7coqa38m5a7.2i1d9q7xqvwse s54f17u957hl.1c9vo48o9uizw 3c3akx1jyujfz.3biyh4y2k7jwa 14avpcsjzogrt.v153pnag3n01 3zjhvh3oxhtq.2qty8x72fv7ik pbj8s52pyz7o.1hzrrh7sx13ad
+serializedKlibFingerprint=19zo1ik3u0e1z.3rsy3izyrib4m
+unique_name=com.honger.ngel\:site
